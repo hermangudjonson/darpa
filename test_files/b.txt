@@ -1,0 +1,3 @@
+target_id fpkm
+a1	  10
+a3	  30

@@ -1,0 +1,5 @@
+target_id	fpkm
+a3		300
+a2		200
+a1		100
+c1		1000
